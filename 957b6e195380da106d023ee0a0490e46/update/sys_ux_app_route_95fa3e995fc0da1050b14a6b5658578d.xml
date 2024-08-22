@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Collection Tracker workspace App Config">15fa3e9930c0da109ff0c6d7942cc39b</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>KB</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>kb_view</route_type>
+        <screen_type display_value="KB">91fa3e9945c0da10fead2c975ab0248e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 11:28:05</sys_created_on>
+        <sys_id>95fa3e995fc0da1050b14a6b5658578d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1124561_collec_0">957b6e195380da106d023ee0a0490e46</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">957b6e195380da106d023ee0a0490e46</sys_scope>
+        <sys_update_name>sys_ux_app_route_95fa3e995fc0da1050b14a6b5658578d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 11:28:05</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=95fa3e995fc0da1050b14a6b5658578d"/>
+</record_update>

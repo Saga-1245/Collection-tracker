@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>true</click_in_mode>
+        <context_config_id display_value="Collection Tracker workspace - Workspace Search">9dfa3e992dc0da10986cdccb7e571091</context_config_id>
+        <limit>5</limit>
+        <order>100</order>
+        <section_header>Recent searches</section_header>
+        <suggestion_type>Recent Search Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-15 11:28:05</sys_created_on>
+        <sys_id>95fa3e99dac0da10ba34f5be97d60796</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recent Search Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Collection Tracker" source="x_1124561_collec_0">957b6e195380da106d023ee0a0490e46</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">957b6e195380da106d023ee0a0490e46</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_95fa3e99dac0da10ba34f5be97d60796</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-15 11:28:05</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>
